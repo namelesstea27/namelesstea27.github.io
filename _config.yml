@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Now What?"
 title_separator          : "-"
-subtitle                 : 간호받고싶은 간화학과생# site tagline that appears below site title in masthead
+subtitle                 : 간호받고싶은 간화학과생 # site tagline that appears below site title in masthead
 name                     : "HW"
 description              : "Using as a Note"
 url                      : "https://namelesstea27.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "HW"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "건강과 이별중"
   location         : "Somewhere"
-  email            :
+  email            : namelesstea27@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

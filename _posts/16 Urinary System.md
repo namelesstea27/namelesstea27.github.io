@@ -1,3 +1,6 @@
+title : 16 Urinary system
+categories : Study
+
 # 16 Urinary System
 
 ## 16.1 Function of Urinary system
